@@ -1,2 +1,2 @@
 # lalala.js
-La la la project
+This is an awesome js library

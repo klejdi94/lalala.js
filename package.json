@@ -1,0 +1,19 @@
+{
+  "name": "lalala",
+  "version": "1.0.0",
+  "description": "The lalala library",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/klejdi94/lalala.js.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/klejdi94/lalala.js/issues"
+  },
+  "homepage": "https://github.com/klejdi94/lalala.js#readme"
+}
